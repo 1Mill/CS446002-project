@@ -5,6 +5,7 @@ Group project for CS446 - User Interfaces and Design
 * Erik Ekberg
 * David Gamino
 * Mike Millard
+* Amanda Foley
 
 # Problem Description
 
